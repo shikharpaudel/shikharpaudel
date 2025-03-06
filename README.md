@@ -17,10 +17,10 @@ I'm **Shikhar Paudel**, a **Web Developer** with a growing interest in **AI and 
    
 ### 📊 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikharpaudel&show_icons=true&count_private=true&theme=radical)](https://github.com/shikharpaudel)
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=social)
+![GitHub followers](https://img.shields.io/github/followers/shikharpaudel?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/shikharpaudel?affiliations=OWNER&style=social)
 
 ---
 Let's connect and learn together! 🚀  
