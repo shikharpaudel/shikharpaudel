@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats & Trophies  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikharpaudel&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=shikharpaudel&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shikharpaudel&theme=radical&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
