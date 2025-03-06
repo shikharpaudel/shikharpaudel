@@ -47,15 +47,7 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google%20sheets&logoColor=white" />
 </p>
 
----
 
-## 📈 GitHub Stats & Trophies  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikharpaudel&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shikharpaudel&theme=radical&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
