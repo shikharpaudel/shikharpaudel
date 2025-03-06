@@ -20,7 +20,10 @@ I'm **Shikhar Paudel**, a **Web Developer** with a growing interest in **AI and 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikharpaudel&show_icons=true&count_private=true&theme=radical)](https://github.com/shikharpaudel)
 
 ![GitHub followers](https://img.shields.io/github/followers/shikharpaudel?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/shikharpaudel?affiliations=OWNER&style=social)
+![GitHub stars](https://img.shields.io/github/stars/shikharpaudel?affiliations=OWNER&style=social) 
+![Profile Views](https://komarev.com/ghpvc/?username=shikharpaudel&label=Profile%20Views&color=blue&style=flat)
+
+---
 
 ---
 Let's connect and learn together! 🚀  
