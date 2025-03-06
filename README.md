@@ -13,7 +13,15 @@ I'm **Shikhar Paudel**, a **Web Developer** with a growing interest in **AI and 
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, Python  
 - **Frameworks & Libraries:** React, Node.js, Express.js  
-- **Tools & Platforms:** GitHub, Google Sheets  
+- **Tools & Platforms:** GitHub, Google Sheets
+   
+### 📊 GitHub Stats  
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)](https://github.com/yourusername)
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=social)
+
+---
 Let's connect and learn together! 🚀  
 
