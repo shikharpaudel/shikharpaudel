@@ -16,10 +16,10 @@
         <li> 👯 I’m looking to collaborate on <b>Web Development & AI-related projects</b> </li>
         <li> 💬 Ask me about <b>MERN Stack, Python, and basic Data Science concepts</b> </li>
         <li> 📫 How to reach me: 
-          <a href="mailto:your-email@gmail.com">📩 Email</a> |  
-          <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> 
+          <a href="mailto:shikharpaudel5@gmail.com">📩 Email</a> |  
+          <a href="https://www.linkedin.com/in/shikharpaudel/">💼 LinkedIn</a> 
         </li>
-        <li> ⚡ Fun fact: <b>I'm also exploring SEO & dropshipping!</b> </li>
+        <li> ⚡ Fun fact: <b>I'm also exploring SEO!</b> </li>
       </ul>
     </td>
     <td>
