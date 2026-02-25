@@ -19,11 +19,14 @@
           <a href="mailto:shikharpaudel5@gmail.com">📩 Email</a> |  
           <a href="https://www.linkedin.com/in/shikharpaudel/">💼 LinkedIn</a> 
         </li>
-        <li> ⚡ Fun fact: <b>I'm also exploring SEO!</b> </li>
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shikharpaudel&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=shikharpaudel&theme=radical)
+    </td>
+    <td>
+    ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikharpaudel&theme=radical)
     </td>
   </tr>
 </table>
